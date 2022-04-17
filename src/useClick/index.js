@@ -1,0 +1,1 @@
+export { useClick } from "./useClick";
