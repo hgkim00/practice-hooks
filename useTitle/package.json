@@ -1,0 +1,24 @@
+{
+  "name": "@hyeongi-hooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-hyeongi/practice-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "kimhyeongi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-hyeongi/practice-hooks/issues"
+  },
+  "homepage": "https://github.com/k-hyeongi/practice-hooks#readme"
+}
